@@ -1,2 +1,2 @@
 # geo
-Ionic
+Geolocation - Ionic
